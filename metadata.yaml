@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5797'
     url: http://www.gutenberg.org/2009/agents/5797
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15018#Elements-of-Civil-Government--13-A-Text-Book-for-Use-in-Public-Schools-High-Schools-and-Norma_
 gutenberg_issued: '2005-02-12'
 gutenberg_type: Text
 identifiers:
