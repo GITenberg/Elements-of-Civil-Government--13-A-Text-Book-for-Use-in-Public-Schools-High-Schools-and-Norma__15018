@@ -1,0 +1,26 @@
+_repo: Elements-of-Civil-Government--13-A-Text-Book-for-Use-in-Public-Schools-High-Schools-and-Norma__15018
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Peterman, Alexander L.
+    gutenberg_agent_id: '5797'
+    url: http://www.gutenberg.org/2009/agents/5797
+description: ''
+gutenberg_issued: '2005-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JK'
+- !lcsh 'Georgia -- Politics and government'
+- !lcsh 'United States -- Politics and government -- Handbooks, manuals, etc.'
+title: "Elements of Civil Government\r\nA Text-Book for Use in Public Schools, High\
+  \ Schools and Normal Schools and a Manual of Reference for Teachers"
+url: http://www.gutenberg.org/ebooks/15018
